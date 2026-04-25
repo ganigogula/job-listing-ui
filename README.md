@@ -32,3 +32,6 @@ A responsive job listing interface built using HTML, CSS, and JavaScript. This p
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/job-listing-ui.git
+
+2. Open the project folder
+3. Run index.html in your browser
